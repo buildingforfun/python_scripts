@@ -3,3 +3,4 @@ A collection of python scripts that you might find useful :)
 
 Scripts:
     - youtube transcriber
+    - qr code maker
